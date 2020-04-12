@@ -4,14 +4,14 @@ This repository contains Jupyter Notebooks for the [Algorithmic Machine Learning
 
 ### Themes covered by the notebooks: 
 #### -Recommandation systems
-building a music recommender system
+building a music recommender system.
 key words : statistical models, pyspark.
 #### -Anomaly detection in IT systems
 building an anomaly detection for IT systems
-key words : interpretable models, Deep Learning, multi, sklearn.
+Key words : interpretable models, Deep Learning, multi, sklearn.
 #### - Housing pricing
-Predicting prices on the US property market (kaggle challenge)
-key words : regression problem, seaborn, sklearn. 
+Predicting prices on the US property market (kaggle challenge).
+Key words : regression problem, seaborn, sklearn. 
 
 
 ### Notebook's structure 
